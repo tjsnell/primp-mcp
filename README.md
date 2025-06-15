@@ -24,7 +24,7 @@ The server provides two main tools:
 
 ### 1. `primp_request`
 
-Make HTTP requests with browser impersonation:
+Make HTTP requests with browser impersonation (note, these instructions are for the LLM):
 
 ```python
 # Example usage in MCP client
